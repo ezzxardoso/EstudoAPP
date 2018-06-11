@@ -10,18 +10,11 @@
 
     <link rel="stylesheet" type="text/css" href="css/index.css" />
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
     <title>Hello World betabit</title>
 
     <script>
-        $(document).ready(function(){
-            $.get( "http://www.betabit.com.br/zeze.php", function( data ) {
-                $( ".result" ).html( data );
 
-            });
-
-        });
     </script>
 </head>
 
@@ -41,7 +34,20 @@
     </div>
     <script type="text/javascript" src="cordova.js"></script>
     <script type="text/javascript" src="js/index.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
     <script type="text/javascript">
+        var app = {
+            initialize: function() {
+                document.addEventListener('deviceready', app.onDeviceReady, false);
+            },
+            onDeviceReady: function() {
+                jQuery.get( "http://www.betabit.com.br/zeze.php", function( data ) {
+                    jQuery( ".result" ).html( data.nome );
+
+                });
+            }
+        };
         app.initialize();
     </script>
 </body>
