@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df63bc50-ddb2-463e-adbf-da8132f9f00f" name="Default" comment="" />
+    <list default="true" id="df63bc50-ddb2-463e-adbf-da8132f9f00f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/www/config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/img/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/.pgbomit" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/android/drawable-hdpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/android/drawable-ldpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/android/drawable-mdpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/android/drawable-xhdpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/android/drawable-xxhdpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/android/drawable-xxxhdpi-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-40.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-40@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-50.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-50@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-60.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-60@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-60@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-72@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-76.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-76@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-small@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-small@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/ios/icon@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Square150x150Logo.scale-100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Square150x150Logo.scale-240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Square30x30Logo.scale-100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Square310x310Logo.scale-100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Square44x44Logo.scale-100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Square44x44Logo.scale-240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Square70x70Logo.scale-100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Square71x71Logo.scale-100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Square71x71Logo.scale-240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/StoreLogo.scale-100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/StoreLogo.scale-240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Wide310x150Logo.scale-100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/windows/Wide310x150Logo.scale-240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/wp8/ApplicationIcon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/icon/wp8/Background.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-land-hdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-land-ldpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-land-mdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-land-xhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-land-xxhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-land-xxxhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-port-hdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-port-ldpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-port-mdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-port-xhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-port-xxhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/android/drawable-port-xxxhdpi-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-568h@2x~iphone.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-667h.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-736h.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-Landscape-736h.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-Landscape@2x~ipad.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-Landscape~ipad.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-Portrait@2x~ipad.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/ios/Default-Portrait~ipad.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/ios/Default@2x~iphone.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/ios/Default~iphone.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/windows/SplashScreen.scale-100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/windows/SplashScreenPhone.scale-240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/res/screen/wp8/screen-portrait.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/spec.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/spec/helper.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/spec/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine-html.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine.js" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +89,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+            <state relative-caret-position="270">
+              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="54" column="42" lean-forward="false" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -38,6 +126,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -92,11 +181,6 @@
               <item name="EstudoAPP" type="b2602c69:ProjectViewProjectNode" />
               <item name="EstudoAPP" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="EstudoAPP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EstudoAPP" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -137,17 +221,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528743980667</updated>
-      <workItem from="1528743982075" duration="2970000" />
+      <workItem from="1528743982075" duration="3150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2970000" />
+    <option name="totallyTimeSpent" value="3150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1442" height="905" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -186,14 +271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/img/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -202,7 +279,23 @@
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+          <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="54" column="42" lean-forward="false" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
           <folding />
         </state>
       </provider>
