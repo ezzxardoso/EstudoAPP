@@ -42,12 +42,17 @@
                 document.addEventListener('deviceready', app.onDeviceReady, false);
             },
             onDeviceReady: function() {
-                jQuery.get( "http://www.betabit.com.br/zeze.php", function( data ) {
-                    jQuery( ".result" ).html( data.nome );
+
+
+
+
+                $.get( "http://www.betabit.com.br/zeze.php", function( data ) {
+                    $( ".result" ).html( data.nome );
 
                 });
             }
         };
+
         app.initialize();
     </script>
 </body>
